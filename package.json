@@ -2,8 +2,6 @@
     "author": "muscaa",
     "id": "tinker",
     "version": "1.0.0",
-    "depends": [
-        "fluff-platform"
-    ],
+    "depends": [],
     "class": "tinker.main.TinkerMain"
 }
