@@ -1,4 +1,8 @@
 {
+    "id": "quill",
+    "author": "muscaa",
+    "description": "...",
+    "latest": "0.0.1-SNAPSHOT",
     "versions": {
         "0.0.1-SNAPSHOT": "https://github.com/muscaa/quill/releases/download/v0.0.1-SNAPSHOT/quill-bundle.zip"
     }
