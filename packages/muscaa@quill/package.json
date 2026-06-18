@@ -4,6 +4,7 @@
     "description": "...",
     "latest": "1.0.0",
     "versions": {
+        "1.0.1": "https://github.com/muscaa/quill/releases/download/v1.0.1/quill-bundle.zip",
         "1.0.0": "https://github.com/muscaa/quill/releases/download/v1.0.0/quill-bundle.zip"
     }
 }
