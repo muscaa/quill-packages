@@ -2,8 +2,9 @@
     "id": "quill",
     "author": "muscaa",
     "description": "...",
-    "latest": "1.0.4",
+    "latest": "1.0.5",
     "versions": {
+        "1.0.5": "https://github.com/muscaa/quill/releases/download/v1.0.5/quill-bundle.zip",
         "1.0.4": "https://github.com/muscaa/quill/releases/download/v1.0.4/quill-bundle.zip",
         "1.0.3": "https://github.com/muscaa/quill/releases/download/v1.0.3/quill-bundle.zip",
         "1.0.2": "https://github.com/muscaa/quill/releases/download/v1.0.2/quill-bundle.zip",
